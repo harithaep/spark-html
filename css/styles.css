@@ -3552,7 +3552,7 @@ input::-moz-focus-inner {
 }
 
 .s-hero__bg {
-  background-image: url(../images/new/radiology.avif);
+  background-image: url(../images/new/radiology.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -4854,6 +4854,16 @@ html.no-csstransitions .s-hero__content {
   color: black;
   margin-top: 0;
   margin-bottom: var(--vspace-1);
+}
+
+.s-coming-soon {
+  margin-top: var(--vspace-0_5);
+  font-family: var(--font-2);
+  font-size: calc(var(--text-size) * 5);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  text-align: center;
 }
 
 .s-contact__email {
