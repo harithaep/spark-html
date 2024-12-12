@@ -3193,7 +3193,7 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-  width: 10rem;
+  width: 12rem;
   height: auto;
   margin-bottom: 0;
 }
@@ -4326,7 +4326,31 @@ html.no-csstransitions .s-hero__content {
   background-size: contain;
 }
 
-.service-icon--product-design {
+.service-icon--ai {
+  background-image: url(../images/new/icon-ai.png);
+}
+
+.service-icon--display {
+  background-image: url(../images/new/icon-display.png);
+}
+
+.service-icon--error {
+  background-image: url(../images/new/icon-error.png);
+}
+
+.service-icon--mic {
+  background-image: url(../images/new/icon-mic.png);
+}
+
+.service-icon--pacs {
+  background-image: url(../images/new/icon-pacs.png);
+}
+
+.service-icon--speech-text {
+  background-image: url(../images/new/icon-speech-text.png);
+}
+
+/* .service-icon--product-design {
   background-image: url(../images/icons/services/icon-product-design.svg);
 }
 
@@ -4348,7 +4372,7 @@ html.no-csstransitions .s-hero__content {
 
 .service-icon--ecommerce {
   background-image: url(../images/icons/services/icon-ecommerce.svg);
-}
+} */
 
 /* ------------------------------------------------------------------- 
  * responsive:
